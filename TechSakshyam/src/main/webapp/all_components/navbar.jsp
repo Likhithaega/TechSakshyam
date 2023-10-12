@@ -18,10 +18,14 @@
         <a class="nav-link" href="#"><i class="fa fa-address-book" aria-hidden="true"></i>Show Notes</a>
       </li>
     </ul>
+    
+    
    
       
       <a href="login.jsp" class="btn btn-light my-2 my-sm-0 mr-2" type="submit"><i class="fa fa-user-circle-o" aria-hidden="true"></i>Login</a>
       <a href="register.jsp" class="btn btn-light my-2 my-sm-0" type="submit"><i class="fa fa-user-plus" aria-hidden="true"></i>Register</a>
- 
+      
+      
+      
   </div>
 </nav>
